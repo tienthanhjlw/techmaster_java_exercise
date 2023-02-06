@@ -1,6 +1,6 @@
 package Exercise1;
 
-public class Exercise1 {
+public class Exercise1Part1 {
     public static void part1() {
         /*
         * Manipulate math operations with "a" and "b"
