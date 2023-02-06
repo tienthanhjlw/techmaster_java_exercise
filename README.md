@@ -6,6 +6,7 @@
 - Coding Style
 - Operators
 ...
+
 Exercise: 
 
 ## Lesson 2: I/O in Java
@@ -16,4 +17,5 @@ Exercise:
 - Math
 - Scanner
 ...
+
 Exercise: 
